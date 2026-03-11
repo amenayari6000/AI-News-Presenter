@@ -25,7 +25,7 @@ https:www.youtube.com/watch?v=e43UKFaqnwA
 
 3- clone news :
 
-https://youtube.com/4kXmf8omRt8
+https://youtube.com/watch?v=4kXmf8omRt8&list=PLgLph9Uvh6mIYlPY5qaGASoFVXr7IKHk2
 
 ---
 
@@ -78,6 +78,7 @@ More details in:
 - pipeline.md
 
 - tools.md
+
 
 
 
