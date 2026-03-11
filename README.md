@@ -15,6 +15,11 @@ The project replaces the original presenter with an AI-generated presenter using
 1-photo :
 
 ![Animation Photo](pipeline_diagram.png)
+Photo used for animation:
+
+<p align="center">
+  <img src="pipeline_diagram.png" width="300">
+</p>
 
 2_origine news :
 
@@ -75,6 +80,7 @@ More details in:
 - pipeline.md
 
 - tools.md
+
 
 
 
