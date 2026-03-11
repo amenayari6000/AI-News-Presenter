@@ -12,6 +12,8 @@ The project replaces the original presenter with an AI-generated presenter using
 ---
 
 # Demo Video
+![Animation Photo](pipeline_diagram.png)
+
 
 Watch the final AI news broadcast:
 
@@ -68,6 +70,7 @@ More details in:
 - pipeline.md
 
 - tools.md
+
 
 
 
