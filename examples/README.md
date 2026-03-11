@@ -15,7 +15,7 @@ The project replaces the original presenter with an AI-generated presenter using
 
 Watch the final AI news broadcast:
 
-https://youtube.com/4kXmf8omRt8
+https://youtube.com/watch?v=4kXmf8omRt8
 
 ---
 
@@ -66,4 +66,5 @@ Export Final Broadcast
 More details in:
 
 - pipeline.md
+
 - tools.md
