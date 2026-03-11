@@ -20,7 +20,6 @@ https://youtube.com/4kXmf8omRt8
 ---
 
 # Project Pipeline
-![Pipeline Diagram](https://raw.githubusercontent.com/amenayari6000/AI-News-Presenter/main/images/pipeline_diagram.png)
 
 Original News Broadcast  ![pipeline_diagram](https://github.com/user-attachments/assets/f85e0843-b56b-4ab7-95d9-c671bc2fb497)
 
@@ -68,4 +67,5 @@ More details in:
 - pipeline.md
 
 - tools.md
+
 
