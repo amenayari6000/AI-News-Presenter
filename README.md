@@ -11,18 +11,23 @@ The project replaces the original presenter with an AI-generated presenter using
 
 ---
 
-# Demo Video
+# resources :
+1-photo :
+
 ![Animation Photo](pipeline_diagram.png)
 
+2_origine news :
 
-Watch the final AI news broadcast:
+https:www.youtube.com/watch?v=e43UKFaqnwA
+
+3- clone news :
 
 https://youtube.com/4kXmf8omRt8
 
 ---
 
 # Project Pipeline
- ![pipeline_diagram](https://github.com/user-attachments/assets/f85e0843-b56b-4ab7-95d9-c671bc2fb497)
+
 
 Original News Broadcast 
 
@@ -70,6 +75,7 @@ More details in:
 - pipeline.md
 
 - tools.md
+
 
 
 
